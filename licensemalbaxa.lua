@@ -1,2 +1,2 @@
 lisanslar = {}
-lisanslar.lisans = { "91.151.94.60" }
+lisanslar.lisans = { "146.19.57.217" }
