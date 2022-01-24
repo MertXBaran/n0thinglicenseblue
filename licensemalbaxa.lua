@@ -1,2 +1,4 @@
-lisanslar = {}
-lisanslar.lisans = { "146.19.57.217" }
+lisans = {}
+lisans.lisanslar = {
+    "146.19.57.217"
+}
