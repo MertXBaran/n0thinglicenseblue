@@ -1,1 +1,4 @@
-
+lisans = {}
+lisans.lisanslar = {
+    "109.63.1.173"
+}
